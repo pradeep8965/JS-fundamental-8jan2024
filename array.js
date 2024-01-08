@@ -1,0 +1,1 @@
+student=['std 1','std 2', 'std 3']// array of object 
